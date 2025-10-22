@@ -39,3 +39,17 @@ npm install
 
 npm start
 ````
+## 📸 Demonstração
+
+<p align="center">
+  <img src="https://github.com/kennyglins/cardapio-digital-react/blob/main/Card%C3%A1pio/cardapio/imagem_2025-10-21_223113065.png?raw=true" width="800" alt="Audiobook JS - tela inicial">
+</p>
+
+📬 Contato
+
+👤 Kennedy Lins
+📧 nino010506@gmail.com
+
+🌐 [LinkedIn](https://www.linkedin.com/in/kennedy-lins-303007356/)
+
+💻 [Portfólio](https://kennyglins.github.io/portf-lio/#)
